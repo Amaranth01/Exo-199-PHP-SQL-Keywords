@@ -121,5 +121,3 @@ Exercice Mysql - Mots Clefs
 
   La requête va vous retourner tous les utilisateurs dont la colonne prenom 
   contient la lettre a (quelle que soit la position)
-
-
